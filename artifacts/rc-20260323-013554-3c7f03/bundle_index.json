@@ -1,0 +1,32 @@
+{
+  "run_dir": "artifacts/rc-20260323-013554-3c7f03",
+  "topic": "Patient-provider racial and ethnic concordance in the United States: effects on communication quality, diagnostic accuracy, treatment adherence, and health outcomes among Black patients \u2014 a systematic literature review",
+  "artifacts": [
+    "candidates.jsonl",
+    "shortlist.jsonl",
+    "paper_draft.md",
+    "paper_revised.md",
+    "sources.json",
+    "schedule.json",
+    "outline.md",
+    "checkpoint.json",
+    "quality_report.json",
+    "heartbeat.json",
+    "synthesis.md",
+    "reviews.md",
+    "queries.json",
+    "goal.md",
+    "search_plan.yaml",
+    "hardware_profile.json",
+    "refinement_log.json",
+    "exp_plan.yaml",
+    "problem_tree.md",
+    "analysis.md",
+    "experiment_spec.md",
+    "decision.md",
+    "hypotheses.md",
+    "archive.md",
+    "experiment_final/run_experiment.py",
+    "experiment/run_experiment.py"
+  ]
+}

@@ -1,0 +1,1 @@
+I need write permission to `.gitignore` to add `artifacts/` to it. Please approve the edit — this will exclude the `artifacts/rc-20260323-013554-3c7f03/` directory from version control and allow the commit to proceed.
