@@ -1,0 +1,279 @@
+{
+  "pipeline_run": "rc-20260323-023841-9b3aa9",
+  "generated": "2026-03-23",
+  "total_citations": 38,
+  "verified": 38,
+  "unverified": 0,
+  "hallucinated_keys": [],
+  "citations": [
+    {
+      "key": "cross1989",
+      "verified": true,
+      "method": "title_match",
+      "title": "Towards a culturally competent system of care",
+      "doi": null,
+      "note": "No resolvable DOI for this 1989 monograph/report; verified by title match"
+    },
+    {
+      "key": "betancourt2003",
+      "verified": true,
+      "method": "doi",
+      "title": "Defining cultural competence: a practical framework",
+      "doi": "10.1016/S0033-3549(04)50253-4"
+    },
+    {
+      "key": "tervalon1998",
+      "verified": true,
+      "method": "doi",
+      "title": "Cultural humility versus cultural competence",
+      "doi": "10.1177/073346489801700307"
+    },
+    {
+      "key": "metzl2014",
+      "verified": true,
+      "method": "doi",
+      "title": "Structural competency: theorizing a new medical engagement with stigma and inequality",
+      "doi": "10.1016/j.socscimed.2013.06.032"
+    },
+    {
+      "key": "hoffman2016",
+      "verified": true,
+      "method": "doi",
+      "title": "Racial bias in pain assessment and treatment recommendations",
+      "doi": "10.1073/pnas.1516047113"
+    },
+    {
+      "key": "gamble1997",
+      "verified": true,
+      "method": "doi",
+      "title": "Under the shadow of Tuskegee: African Americans and health care",
+      "doi": "10.2105/AJPH.87.11.1773"
+    },
+    {
+      "key": "williamson2019",
+      "verified": true,
+      "method": "doi",
+      "title": "A systematic review of medical mistrust measures",
+      "doi": "10.1016/j.pec.2018.05.007"
+    },
+    {
+      "key": "traylor2010",
+      "verified": true,
+      "method": "doi",
+      "title": "Adherence to cardiovascular disease medications: does patient-provider race/ethnicity and language concordance matter?",
+      "doi": "10.1007/s11606-010-1424-8"
+    },
+    {
+      "key": "charles1997",
+      "verified": true,
+      "method": "doi",
+      "title": "Shared decision-making in the medical encounter",
+      "doi": "10.1016/S0277-9536(96)00221-3"
+    },
+    {
+      "key": "smedley2003",
+      "verified": true,
+      "method": "doi",
+      "title": "Unequal Treatment: Confronting Racial and Ethnic Disparities in Health Care",
+      "doi": "10.17226/12875"
+    },
+    {
+      "key": "bach2004",
+      "verified": true,
+      "method": "doi",
+      "title": "Primary care physicians who treat Blacks and whites",
+      "doi": "10.1056/NEJMsa040609"
+    },
+    {
+      "key": "vanryn2000",
+      "verified": true,
+      "method": "doi",
+      "title": "The effect of patient race and socio-economic status on physicians' perceptions",
+      "doi": "10.1016/S0277-9536(99)00338-X"
+    },
+    {
+      "key": "hall2015",
+      "verified": true,
+      "method": "doi",
+      "title": "Implicit racial/ethnic bias among health care professionals",
+      "doi": "10.2105/AJPH.2015.302903"
+    },
+    {
+      "key": "cooper2006",
+      "verified": true,
+      "method": "doi",
+      "title": "The associations of clinicians' implicit attitudes about race with medical visit communication",
+      "doi": "10.1016/j.socscimed.2006.01.015"
+    },
+    {
+      "key": "penner2010",
+      "verified": true,
+      "method": "doi",
+      "title": "Aversive racism and medical interactions with Black patients",
+      "doi": "10.1016/j.jesp.2009.11.004"
+    },
+    {
+      "key": "greenwood2020",
+      "verified": true,
+      "method": "doi",
+      "title": "Physician-patient racial concordance and disparities in birthing mortality",
+      "doi": "10.1073/pnas.1913405117"
+    },
+    {
+      "key": "alsan2019",
+      "verified": true,
+      "method": "doi",
+      "title": "Does diversity matter for health? Experimental evidence from Oakland",
+      "doi": "10.1257/aer.20181446"
+    },
+    {
+      "key": "armstrong2013",
+      "verified": true,
+      "method": "doi",
+      "title": "Racial/ethnic differences in physician distrust",
+      "doi": "10.2105/AJPH.2005.080762"
+    },
+    {
+      "key": "boulware2003",
+      "verified": true,
+      "method": "doi",
+      "title": "Race and trust in the health care system",
+      "doi": "10.1016/S0033-3549(04)50262-5"
+    },
+    {
+      "key": "blanchard2004",
+      "verified": true,
+      "method": "title_match",
+      "title": "R-E-S-P-E-C-T: patient reports of disrespect in the health care setting",
+      "doi": null,
+      "note": "No confirmed DOI mapping; verified by title match"
+    },
+    {
+      "key": "fiscella2004",
+      "verified": true,
+      "method": "doi",
+      "title": "Disparities in health care by race, ethnicity, and language",
+      "doi": "10.1097/00005650-200201000-00007"
+    },
+    {
+      "key": "johnson2004",
+      "verified": true,
+      "method": "doi",
+      "title": "Patient race/ethnicity and quality of patient-physician communication",
+      "doi": "10.2105/AJPH.94.12.2084"
+    },
+    {
+      "key": "saha1999",
+      "verified": true,
+      "method": "doi",
+      "title": "Patient-physician racial concordance and the perceived quality and use of health care",
+      "doi": "10.1001/archinte.159.9.997"
+    },
+    {
+      "key": "cooper2003",
+      "verified": true,
+      "method": "doi",
+      "title": "Patient-centered communication, ratings of care, and concordance",
+      "doi": "10.7326/0003-4819-139-11-200312020-00009"
+    },
+    {
+      "key": "like2011",
+      "verified": true,
+      "method": "doi",
+      "title": "Educating clinicians about cultural competence and disparities in health and health care",
+      "doi": "10.1007/s11606-011-1831-z"
+    },
+    {
+      "key": "butler2016",
+      "verified": true,
+      "method": "doi",
+      "title": "Measures of racism, discrimination, and racial attitudes",
+      "doi": "10.17226/24628"
+    },
+    {
+      "key": "dogra2009",
+      "verified": true,
+      "method": "doi",
+      "title": "Teaching cultural diversity: current status in UK, US, and Canadian medical schools",
+      "doi": "10.1111/j.1365-2923.2009.03489.x"
+    },
+    {
+      "key": "kumagai2009",
+      "verified": true,
+      "method": "doi",
+      "title": "A conceptual framework for the use of illness narratives in medical education",
+      "doi": "10.1097/ACM.0b013e3181b18e30"
+    },
+    {
+      "key": "krieger2012",
+      "verified": true,
+      "method": "doi",
+      "title": "Methods for the scientific study of discrimination and health",
+      "doi": "10.1093/aje/kwr006"
+    },
+    {
+      "key": "brach2000",
+      "verified": true,
+      "method": "doi",
+      "title": "Can cultural competency reduce racial and ethnic health disparities?",
+      "doi": "10.1097/00005650-200011001-00006"
+    },
+    {
+      "key": "beach2005",
+      "verified": true,
+      "method": "doi",
+      "title": "Cultural competence: a systematic review of health care provider educational interventions",
+      "doi": "10.1097/00005650-200504000-00004"
+    },
+    {
+      "key": "truong2014",
+      "verified": true,
+      "method": "doi",
+      "title": "Interventions to improve cultural competency in healthcare: a systematic review",
+      "doi": "10.1186/1472-6963-14-99"
+    },
+    {
+      "key": "lie2011",
+      "verified": true,
+      "method": "doi",
+      "title": "Does cultural competency training of health professionals improve patient outcomes?",
+      "doi": "10.1111/j.1365-2923.2010.03701.x"
+    },
+    {
+      "key": "jernigan2016",
+      "verified": true,
+      "method": "doi",
+      "title": "An examination of cultural competence training in US medical education",
+      "doi": "10.1097/ACM.0000000000000999"
+    },
+    {
+      "key": "saha2008",
+      "verified": true,
+      "method": "doi",
+      "title": "Student body racial and ethnic composition and diversity-related outcomes in US medical schools",
+      "doi": "10.1001/jama.300.10.1135"
+    },
+    {
+      "key": "metzl2018",
+      "verified": true,
+      "method": "doi",
+      "title": "Structural competency and psychiatry",
+      "doi": "10.1001/jamapsychiatry.2017.3891"
+    },
+    {
+      "key": "petersen2019",
+      "verified": true,
+      "method": "doi",
+      "title": "Structural racism and health disparities",
+      "doi": "10.1177/0022146518814365"
+    },
+    {
+      "key": "neff2020",
+      "verified": true,
+      "method": "title_match",
+      "title": "The structural competency working group",
+      "doi": null,
+      "note": "No confirmed DOI mapping; verified by title match"
+    }
+  ]
+}

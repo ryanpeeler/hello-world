@@ -1,0 +1,32 @@
+{
+  "run_dir": "artifacts/rc-20260323-023841-9b3aa9",
+  "topic": "Beyond cultural competency training: cultural fluency as structural clinical infrastructure and its effects on diagnostic accuracy, patient trust, treatment adherence, and health disparities in Black and minority patient populations in the United States",
+  "artifacts": [
+    "candidates.jsonl",
+    "shortlist.jsonl",
+    "paper_draft.md",
+    "paper_revised.md",
+    "sources.json",
+    "schedule.json",
+    "outline.md",
+    "checkpoint.json",
+    "quality_report.json",
+    "heartbeat.json",
+    "synthesis.md",
+    "reviews.md",
+    "queries.json",
+    "goal.md",
+    "search_plan.yaml",
+    "hardware_profile.json",
+    "refinement_log.json",
+    "exp_plan.yaml",
+    "problem_tree.md",
+    "analysis.md",
+    "experiment_spec.md",
+    "decision.md",
+    "hypotheses.md",
+    "archive.md",
+    "experiment_final/run_experiment.py",
+    "experiment/run_experiment.py"
+  ]
+}

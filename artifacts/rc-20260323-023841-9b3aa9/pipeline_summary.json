@@ -1,0 +1,171 @@
+{
+  "run_id": "rc-20260323-023841-9b3aa9",
+  "timestamp": "2026-03-23T03:00:38+00:00",
+  "total_stages": 23,
+  "completed": 23,
+  "failed": 0,
+  "total_duration_sec": 1317.2848689550008,
+  "stages": [
+    {
+      "stage": 1,
+      "name": "TOPIC_INIT",
+      "status": "done",
+      "duration_sec": 53.39,
+      "error": ""
+    },
+    {
+      "stage": 2,
+      "name": "PROBLEM_DECOMPOSE",
+      "status": "done",
+      "duration_sec": 72.66,
+      "error": ""
+    },
+    {
+      "stage": 3,
+      "name": "SEARCH_STRATEGY",
+      "status": "done",
+      "duration_sec": 56.63,
+      "error": ""
+    },
+    {
+      "stage": 4,
+      "name": "LITERATURE_COLLECT",
+      "status": "done",
+      "duration_sec": 0.27,
+      "error": ""
+    },
+    {
+      "stage": 5,
+      "name": "LITERATURE_SCREEN",
+      "status": "done",
+      "duration_sec": 7.68,
+      "error": ""
+    },
+    {
+      "stage": 6,
+      "name": "KNOWLEDGE_EXTRACT",
+      "status": "done",
+      "duration_sec": 0.0,
+      "error": ""
+    },
+    {
+      "stage": 7,
+      "name": "SYNTHESIS",
+      "status": "done",
+      "duration_sec": 77.33,
+      "error": ""
+    },
+    {
+      "stage": 8,
+      "name": "HYPOTHESIS_GEN",
+      "status": "done",
+      "duration_sec": 61.78,
+      "error": ""
+    },
+    {
+      "stage": 9,
+      "name": "EXPERIMENT_DESIGN",
+      "status": "done",
+      "duration_sec": 97.71,
+      "error": ""
+    },
+    {
+      "stage": 10,
+      "name": "CODE_GENERATION",
+      "status": "done",
+      "duration_sec": 49.17,
+      "error": ""
+    },
+    {
+      "stage": 11,
+      "name": "RESOURCE_PLANNING",
+      "status": "done",
+      "duration_sec": 11.39,
+      "error": ""
+    },
+    {
+      "stage": 12,
+      "name": "EXPERIMENT_RUN",
+      "status": "done",
+      "duration_sec": 0.0,
+      "error": ""
+    },
+    {
+      "stage": 13,
+      "name": "ITERATIVE_REFINE",
+      "status": "done",
+      "duration_sec": 0.0,
+      "error": ""
+    },
+    {
+      "stage": 14,
+      "name": "RESULT_ANALYSIS",
+      "status": "done",
+      "duration_sec": 13.38,
+      "error": ""
+    },
+    {
+      "stage": 15,
+      "name": "RESEARCH_DECISION",
+      "status": "done",
+      "duration_sec": 33.19,
+      "error": ""
+    },
+    {
+      "stage": 16,
+      "name": "PAPER_OUTLINE",
+      "status": "done",
+      "duration_sec": 113.96,
+      "error": ""
+    },
+    {
+      "stage": 17,
+      "name": "PAPER_DRAFT",
+      "status": "done",
+      "duration_sec": 271.8,
+      "error": ""
+    },
+    {
+      "stage": 18,
+      "name": "PEER_REVIEW",
+      "status": "done",
+      "duration_sec": 49.9,
+      "error": ""
+    },
+    {
+      "stage": 19,
+      "name": "PAPER_REVISION",
+      "status": "done",
+      "duration_sec": 224.99,
+      "error": ""
+    },
+    {
+      "stage": 20,
+      "name": "QUALITY_GATE",
+      "status": "done",
+      "duration_sec": 0.0,
+      "error": ""
+    },
+    {
+      "stage": 21,
+      "name": "KNOWLEDGE_ARCHIVE",
+      "status": "done",
+      "duration_sec": 109.36,
+      "error": ""
+    },
+    {
+      "stage": 22,
+      "name": "EXPORT_PUBLISH",
+      "status": "done",
+      "duration_sec": 12.7,
+      "error": ""
+    },
+    {
+      "stage": 23,
+      "name": "CITATION_VERIFY",
+      "status": "done",
+      "duration_sec": 0.0,
+      "error": ""
+    }
+  ]
+}

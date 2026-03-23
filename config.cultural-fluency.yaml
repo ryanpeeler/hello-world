@@ -1,0 +1,97 @@
+# ============================================================================
+# ResearchClaw Configuration — Cultural Fluency as Clinical Infrastructure
+# ============================================================================
+
+project:
+  name: "cultural-fluency-clinical-infrastructure"
+  mode: "docs-first"
+
+research:
+  topic: "Beyond cultural competency training: cultural fluency as structural clinical infrastructure and its effects on diagnostic accuracy, patient trust, treatment adherence, and health disparities in Black and minority patient populations in the United States"
+  domains:
+    - "health disparities"
+    - "structural competency"
+    - "clinical infrastructure"
+    - "patient-provider communication"
+    - "medical education"
+  daily_papers: 12
+  quality_threshold: 3.5
+  graceful_degradation: true
+
+runtime:
+  timezone: "America/New_York"
+  max_parallel: 3
+  approval_timeout_hours: 12
+  max_retries: 2
+
+# ---------------------------------------------------------------------------
+# LLM Provider
+# ---------------------------------------------------------------------------
+llm:
+  provider: "acp"
+  base_url: ""
+  api_key_env: ""
+  primary_model: ""
+  fallback_models: []
+
+  # ACP agent (Claude Code subscription auth)
+  acp:
+    agent: "claude"
+    model: ""
+    session_reuse: true
+
+# ---------------------------------------------------------------------------
+# Experiment Execution
+# ---------------------------------------------------------------------------
+experiment:
+  mode: "simulated"
+
+  sandbox:
+    python_path: ".venv/bin/python"
+    time_budget_sec: 300
+    max_iterations: 10
+
+  code_agent:
+    enabled: true
+    architecture_planning: true
+    multi_file: true
+    review_enabled: true
+    max_repair_rounds: 5
+
+# ---------------------------------------------------------------------------
+# Security & Approval Gates
+# ---------------------------------------------------------------------------
+security:
+  hitl_required_stages:
+    - 5
+    - 9
+    - 20
+  allow_network_in_sandbox: false
+  network_policy: "block-all"
+
+# ---------------------------------------------------------------------------
+# Knowledge Base
+# ---------------------------------------------------------------------------
+knowledge_base:
+  backend: "markdown"
+  root: "docs/kb"
+
+# ---------------------------------------------------------------------------
+# Notifications
+# ---------------------------------------------------------------------------
+notifications:
+  enabled: false
+  channel: ""
+
+# ---------------------------------------------------------------------------
+# MetaClaw Bridge
+# ---------------------------------------------------------------------------
+metaclaw_bridge:
+  enabled: false
+
+# ---------------------------------------------------------------------------
+# Export / Paper Generation
+# ---------------------------------------------------------------------------
+export:
+  format: "neurips2025"
+  latex_engine: "pdflatex"

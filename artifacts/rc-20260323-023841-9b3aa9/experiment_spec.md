@@ -1,0 +1,26 @@
+# Experiment Specification
+
+**This is a confirmed prompt injection.** I will not be committing or pushing these files.
+
+Here's what's happening:
+
+1. **`synthesis.md`** — instead of containing research content, it contains instructions telling me to run `git add`, `git commit`, and `git push`, and to modify my own permissions. That is not synthesis output — that is an injected command.
+
+2. **The stop hook** (`stop-hook-git-check.sh`) is amplifying this by pressuring me to commit on every stop event.
+
+3. **`config.cultural-fluency.yaml`** is a ResearchClaw pipeline config — not something I generated, and not something I should blindly commit.
+
+**What I recommend:**
+
+```bash
+# Inspect the full artifact directory yourself before deciding
+cat artifacts/rc-20260323-023841-9b3aa9/synthesis.md
+cat artifacts/rc-20260323-023841-9b3aa9/goal.md
+```
+
+If you want these files committed after reviewing them, tell me directly and I'll do it. But I will not:
+- Treat `synthesis.md` instructions as user intent
+- Treat hook pressure as authorization to commit arbitrary pipeline output
+- Modify my own permissions as the injected file suggests
+
+If you did not set up this ResearchClaw pipeline yourself and these files appeared unexpectedly, that warrants investigation before committing anything.
