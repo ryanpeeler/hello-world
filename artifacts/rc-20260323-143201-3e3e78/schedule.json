@@ -1,0 +1,8 @@
+{
+  "runs": [
+    {
+      "name": "main",
+      "estimated_time_sec": 300
+    }
+  ]
+}

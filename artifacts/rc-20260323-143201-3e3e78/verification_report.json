@@ -1,0 +1,8 @@
+{
+  "total_citations": 0,
+  "verified": 0,
+  "unverified": 0,
+  "hallucinated_keys": [],
+  "results": [],
+  "verified_bib": "The git commands need your approval. Please confirm you'd like me to proceed with:\n\n1. `git add config.carbon-nanotubes.yaml`\n2. `git commit -m \"Add researchclaw package, tests, and carbon-nanotubes config\"`\n3. `git push`"
+}

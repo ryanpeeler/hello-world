@@ -1,0 +1,14 @@
+It seems git commands require your approval via the permission prompt. You have a few options:
+
+1. **Approve the permission prompt** when it appears for `git status`, `git add`, and `git commit`
+
+2. **Allow git commands automatically** by running `/update-config` to add git to your allowed commands — this will prevent the stop hook from blocking future sessions
+
+3. **Run manually** in your terminal:
+   ```bash
+   git add -A
+   git commit -m "Add CNT commercialization search strategy"
+   git push
+   ```
+
+Which would you prefer?

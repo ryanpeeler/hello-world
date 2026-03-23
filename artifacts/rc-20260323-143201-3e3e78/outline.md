@@ -1,0 +1,1 @@
+I need your approval to run git commands. Could you approve the `git status` command so I can see what changes are uncommitted? Once I can see the state, I'll stage, commit, and push the appropriate files.

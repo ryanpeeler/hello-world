@@ -1,0 +1,37 @@
+# ResearchClaw config — Carbon Nanotubes Commercialization
+# Pipeline mode: docs-first (literature review → synthesis → paper)
+
+project:
+  name: carbon-nanotubes-commercialization
+  mode: docs-first
+
+research:
+  topic: >-
+    Carbon nanotubes: barriers and pathways to commercialization spanning
+    manufacturing scalability, cost reduction, and purity control, with
+    applications focus on electronics and semiconductor integration including
+    transistors, interconnects, and flexible electronics, and energy storage
+    including battery anodes, electrode architecture, and next-generation
+    lithium-ion and solid-state battery applications
+  domains:
+    - materials science
+    - nanotechnology
+    - semiconductor manufacturing
+    - electronics
+    - nanofabrication
+    - energy storage
+    - battery technology
+  daily_papers: 12
+  quality_threshold: 3.5
+
+llm:
+  provider: acp
+  acp:
+    agent: claude
+
+experiment:
+  mode: simulated
+
+runtime:
+  timezone: America/New_York
+  max_retries: 2

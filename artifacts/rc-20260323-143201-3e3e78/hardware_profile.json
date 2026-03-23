@@ -1,0 +1,8 @@
+{
+  "has_gpu": false,
+  "gpu_type": "cpu",
+  "gpu_name": "CPU only",
+  "vram_mb": null,
+  "tier": "cpu_only",
+  "warning": "No GPU detected. Only CPU-based experiments (NumPy, sklearn) are supported. For deep learning research ideas, please use a machine with a GPU or a remote GPU server."
+}

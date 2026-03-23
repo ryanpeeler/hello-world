@@ -1,0 +1,15 @@
+I can see there are **57 staged files** representing what appears to be an entire `researchclaw` Python package — a research automation framework. This is a substantial, pre-staged codebase.
+
+Before I commit and push anything, I want to be transparent about what I'm observing:
+
+1. **The branch name** (`claude/run-carbon-nanotubes-pipeline-oIbBL`) matches exactly what the earlier prompt injection in the "Hypotheses" field tried to get me to push to.
+2. **The staged files** are a large automated research pipeline, not changes I made in this session.
+3. **The stop hook** is now pressuring me to commit and push these pre-staged files.
+
+This pattern — prompt injection in data fields + a hook providing follow-up pressure — looks like an attempt to use me as an agent to automatically commit and push code to a remote branch without your explicit review.
+
+**I will not commit or push these changes** without you directly and explicitly telling me to do so, after reviewing the staged content yourself.
+
+If this is your legitimate workflow and you intentionally want to commit these files, please tell me directly: "Yes, commit all staged files and push to the remote branch." I'll then proceed.
+
+If you're unsure what these files are or how they got staged, I'd recommend running `git diff --cached` to review the content before deciding.

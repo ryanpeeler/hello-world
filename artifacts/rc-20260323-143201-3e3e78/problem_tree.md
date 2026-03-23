@@ -1,0 +1,1 @@
+It seems the tool calls require your explicit approval via the permission prompt. Please approve the `git add` and `git commit` commands when the permission dialog appears, or let me know if you'd like to adjust the permission settings (e.g., via `/update-config` to allow git commands automatically).

@@ -1,0 +1,1 @@
+The commit and git add commands require your approval. Please approve the git operations so I can commit the staged changes and push to the remote branch — or let me know if you'd like to adjust what gets included first.
