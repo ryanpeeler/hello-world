@@ -228,7 +228,20 @@ Similarly, cultural fluency as infrastructure describes the implemented interact
 - Patient-provider relationships characterized by trust, shared decision-making, and adherence
 - Continuous improvement processes that use disparity data to drive structural refinement
 
-### 7.4 The Dual-Axis Framework
+### 7.4 Summary of Evidence Across Outcome Domains
+
+The following table synthesizes the evidence reviewed in Sections 3–6, organized by outcome domain and mechanism level, illustrating the paper's central argument that individual and structural dimensions operate in concert across all four domains.
+
+| Outcome Domain | Individual-Level Mechanisms | Structural-Level Mechanisms | Key Evidence |
+|---|---|---|---|
+| **Diagnostic Accuracy** | Implicit bias in symptom interpretation; false biological beliefs; biased pain assessment | Time pressure amplifying bias; resource disparities among providers serving Black patients; lack of decision support | Hall et al., 2015; Hoffman et al., 2016; Bach, 2004; Penner et al., 2010 |
+| **Patient Trust** | Provider communication quality; cultural humility in encounters; acknowledgment of historical harms | Institutional histories of exploitation; workforce homogeneity; absence of community governance structures | Gamble, 1997; Armstrong et al., 2013; Alsan et al., 2019; Greenwood et al., 2020 |
+| **Treatment Adherence** | Cross-cultural communication deficits; reduced shared decision-making in discordant encounters | Insufficient encounter time; lack of follow-up infrastructure; absence of community health worker programs | Johnson et al., 2004; Cooper et al., 2003; Traylor et al., 2010; Fiscella et al., 2000 |
+| **Health Disparities (Broad)** | Training improves knowledge/attitudes but not patient outcomes | Resource allocation disadvantaging minority-serving providers; structural determinants of intersectional exclusion | Smedley et al., 2003; Beach et al., 2005; Petersen et al., 2019; Krieger, 2012 |
+
+*Table 1. Evidence synthesis across outcome domains by mechanism level. In each domain, the evidence demonstrates that individual-level interventions are necessary but insufficient, and that structural conditions set the ceiling for what individual competency can achieve.*
+
+### 7.5 The Dual-Axis Framework
 
 To formalize the integration thesis, this paper proposes a dual-axis framework for assessing institutional cultural fluency. The first axis represents individual cultural fluency capacity (the aggregate cultural fluency of the institution's workforce), and the second axis represents structural cultural fluency infrastructure (the institutional systems, policies, and workflows that support equitable care). An institution can be located in one of four quadrants:
 
@@ -239,7 +252,7 @@ To formalize the integration thesis, this paper proposes a dual-axis framework f
 
 The dual-axis framework suggests that movement toward the fourth quadrant requires coordinated investment in both dimensions, and that investment in only one dimension produces the characteristic limitations documented in the training and structural competency literatures.
 
-### 7.5 Institutional Variation and Implementation Heterogeneity
+### 7.6 Institutional Variation and Implementation Heterogeneity
 
 The dual-axis framework must be applied with attention to the substantial variation among healthcare institutions. An urban academic medical center with existing diversity and equity infrastructure, a diverse patient population, and institutional research capacity faces a fundamentally different implementation landscape than a rural critical access hospital with a homogeneous workforce, limited resources, and minimal organizational infrastructure for equity initiatives. Similarly, federally qualified health centers (FQHCs), which serve disproportionately minority and low-income populations, may have greater community engagement capacity but face more severe resource constraints than private health systems.
 

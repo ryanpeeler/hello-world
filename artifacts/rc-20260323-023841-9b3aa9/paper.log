@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.23)  23 MAR 2026 14:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.23)  23 MAR 2026 15:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -436,35 +436,177 @@ Overfull \hbox (9.81825pt too wide) in paragraph at lines 127--127
  []
 
 [10]
-Overfull \hbox (3.37709pt too wide) in paragraph at lines 155--155
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 150.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 150.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 150.
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]\T1/lmr/bx/n/10.95 Outcome
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+[]\T1/lmr/m/n/10.95 Diagnostic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+[]\T1/lmr/m/n/10.95 Implicit bias in
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 154--154
+\T1/lmr/m/n/10.95 dis-par-i-ties; lack of
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 154--155
+[]\T1/lmr/m/n/10.95 Hall et al., 2015;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+[]\T1/lmr/m/n/10.95 Patient
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+[]\T1/lmr/m/n/10.95 Communication
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+\T1/lmr/m/n/10.95 qual-ity; cul-tural
+ []
+
+
+Underfull \hbox (badness 7168) in paragraph at lines 156--156
+\T1/lmr/m/n/10.95 hu-mil-ity; ac-knowl-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+[]\T1/lmr/m/n/10.95 Institutional his-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+\T1/lmr/m/n/10.95 to-ries; work-force
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
+\T1/lmr/m/n/10.95 ho-mo-gene-ity; ab-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]\T1/lmr/m/n/10.95 Treatment
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 158--158
+[]\T1/lmr/m/n/10.95 Cross-cultural com-
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 158--158
+\T1/lmr/m/n/10.95 mu-ni-ca-tion deficits;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\T1/lmr/m/n/10.95 re-duced shared
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]\T1/lmr/m/n/10.95 Insufficient en-
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 158--158
+\T1/lmr/m/n/10.95 counter time; lack
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 158--158
+\T1/lmr/m/n/10.95 of follow-up in-fras-
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 158--158
+\T1/lmr/m/n/10.95 truc-ture; no CHW
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 160--160
+[]\T1/lmr/m/n/10.95 Health Dis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+[]\T1/lmr/m/n/10.95 Training im-proves
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 160--160
+\T1/lmr/m/n/10.95 knowl-edge but not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+[]\T1/lmr/m/n/10.95 Resource al-lo-ca-
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 160--160
+\T1/lmr/m/n/10.95 tion dis-ad-van-tag-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+\T1/lmr/m/n/10.95 minority-serving
+ []
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 160--160
+\T1/lmr/m/n/10.95 providers; in-ter-sec-
+ []
+
+[11]
+Overfull \hbox (3.37709pt too wide) in paragraph at lines 179--179
 []\T1/lmr/bx/n/17.28 Medical Ed-u-ca-tion, Work-force, and Emerg-ing Con-
  []
 
-[11] [12] [13] (./paper.bbl [14] [15] [16] [17]) [18] (./paper.aux)
+[12] [13] [14] (./paper.bbl [15] [16] [17] [18]) [19] (./paper.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `paper.out' has not changed.
-(rerunfilecheck)             Checksum: 8351466030CDB595FBF7FE767C22D71E;10345.
+(rerunfilecheck)             Checksum: 20F996062FCC02D60FE6D9E3F52296C5;10628.
  ) 
 Here is how much of TeX's memory you used:
- 10199 strings out of 476182
- 157585 string characters out of 5795595
- 1931975 words of memory out of 5000000
- 31974 multiletter control sequences out of 15000+600000
- 605701 words of font info for 59 fonts, out of 8000000 for 9000
+ 10225 strings out of 476182
+ 157923 string characters out of 5795595
+ 1934975 words of memory out of 5000000
+ 31991 multiletter control sequences out of 15000+600000
+ 616498 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,6n,79p,2108b,599s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,2108b,605s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmri12.pfb>
-Output written on paper.pdf (18 pages, 229698 bytes).
+Output written on paper.pdf (19 pages, 238211 bytes).
 PDF statistics:
- 448 PDF objects out of 1000 (max. 8388607)
- 409 compressed objects within 5 object streams
- 101 named destinations out of 1000 (max. 500000)
- 297 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 460 PDF objects out of 1000 (max. 8388607)
+ 420 compressed objects within 5 object streams
+ 104 named destinations out of 1000 (max. 500000)
+ 305 words of extra memory for PDF output out of 10000 (max. 10000000)
 
