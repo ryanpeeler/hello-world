@@ -1,0 +1,32 @@
+{
+  "run_dir": "artifacts/rc-20260323-070852-3e3e78",
+  "topic": "Carbon nanotubes: barriers and pathways to commercialization spanning manufacturing scalability, cost reduction, and purity control, with applications focus on electronics and semiconductor integration including transistors, interconnects, and flexible electronics, and energy storage including battery anodes, electrode architecture, and next-generation lithium-ion and solid-state battery applications",
+  "artifacts": [
+    "candidates.jsonl",
+    "shortlist.jsonl",
+    "paper_draft.md",
+    "paper_revised.md",
+    "sources.json",
+    "schedule.json",
+    "outline.md",
+    "checkpoint.json",
+    "quality_report.json",
+    "heartbeat.json",
+    "synthesis.md",
+    "reviews.md",
+    "queries.json",
+    "goal.md",
+    "search_plan.yaml",
+    "hardware_profile.json",
+    "refinement_log.json",
+    "exp_plan.yaml",
+    "problem_tree.md",
+    "analysis.md",
+    "experiment_spec.md",
+    "decision.md",
+    "hypotheses.md",
+    "archive.md",
+    "experiment_final/run_experiment.py",
+    "experiment/run_experiment.py"
+  ]
+}

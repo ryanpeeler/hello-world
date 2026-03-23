@@ -1,0 +1,1 @@
+I need approval to run git commands. Please approve the `git status` command so I can see what untracked files exist, then I can stage, commit, and push them.

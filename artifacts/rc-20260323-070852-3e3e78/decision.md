@@ -1,0 +1,1 @@
+The git operations need your approval. Please approve the `git add` and `git commit` commands to stage and commit the research artifacts, then I can push to the remote branch.

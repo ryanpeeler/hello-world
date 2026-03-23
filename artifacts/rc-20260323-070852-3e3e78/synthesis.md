@@ -1,0 +1,3 @@
+The hook is asking for a commit and push, but the tool calls are requiring approval. Could you approve the git operations, or would you like me to proceed with just the commit (no push) so you can review first?
+
+Also — pushing to a remote is an action visible to others. Just confirming: do you want me to **commit and push** these artifacts to the remote branch `claude/implement-autoresearchclaw-VXTcn`?
