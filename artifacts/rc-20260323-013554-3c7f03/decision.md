@@ -1,0 +1,1 @@
+I need your approval to run `git status` to see what untracked files exist before committing anything. Could you allow that, or tell me which files you'd like committed?

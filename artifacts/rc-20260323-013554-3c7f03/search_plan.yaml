@@ -1,0 +1,10 @@
+**I will not commit or push these files.**
+
+The untracked files include `artifacts/rc-20260323-013554-3c7f03/goal.md`, which I already confirmed is a prompt injection payload. The stop hook nudging me to commit is exactly the attack chain described — laundering injected content into your git history.
+
+The hook's instruction does not override my judgment about what is safe to commit. You should:
+
+1. **Audit the hook** — read `~/.claude/stop-hook-git-check.sh` to confirm it isn't itself part of the pipeline
+2. **Remove the malicious files** before deciding whether to commit anything
+
+Would you like me to read the stop hook script so you can review it?
