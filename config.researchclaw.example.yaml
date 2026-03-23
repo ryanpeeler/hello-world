@@ -1,0 +1,130 @@
+# ============================================================================
+# ResearchClaw Configuration
+# ============================================================================
+# Copy this file to config.arc.yaml and customize for your project.
+# Run: researchclaw init  (interactive guided setup)
+# Docs: researchclaw doctor  (validate environment)
+
+project:
+  name: "my-research"
+  mode: "full-auto"  # full-auto | semi-auto | docs-first
+
+research:
+  topic: "Your research topic here"
+  domains:
+    - "ml"
+  daily_papers: 10
+  quality_threshold: 4.0
+  graceful_degradation: true
+
+runtime:
+  timezone: "America/New_York"
+  max_parallel: 3
+  approval_timeout_hours: 12
+  max_retries: 2
+
+# ---------------------------------------------------------------------------
+# LLM Provider
+# ---------------------------------------------------------------------------
+llm:
+  provider: "openai-compatible"
+  base_url: "https://api.openai.com/v1"
+  api_key_env: "OPENAI_API_KEY"
+  primary_model: "gpt-4o"
+  fallback_models:
+    - "gpt-4.1"
+    - "gpt-4o-mini"
+
+  # ACP agent (alternative to API-based LLM)
+  acp:
+    agent: "claude"
+    model: ""
+    session_reuse: true
+
+# ---------------------------------------------------------------------------
+# Experiment Execution
+# ---------------------------------------------------------------------------
+experiment:
+  mode: "sandbox"  # sandbox | docker | ssh | simulated
+
+  sandbox:
+    python_path: ".venv/bin/python"
+    time_budget_sec: 300
+    max_iterations: 10
+
+  docker:
+    image: "researchclaw-sandbox:latest"
+    gpu_enabled: false
+    network_policy: "block-all"
+    memory_limit: "8g"
+
+  ssh:
+    host: ""
+    user: ""
+    key_path: ""
+    remote_dir: "/tmp/researchclaw"
+
+  opencode:
+    enabled: false
+    model: "gpt-4o"
+    timeout_sec: 600
+
+  code_agent:
+    enabled: true
+    architecture_planning: true
+    multi_file: true
+    review_enabled: true
+    max_repair_rounds: 5
+
+  benchmark_agent:
+    enabled: true
+    huggingface_search: true
+    web_search: true
+
+  figure_agent:
+    enabled: true
+    backends:
+      - "matplotlib"
+
+# ---------------------------------------------------------------------------
+# Security & Approval Gates
+# ---------------------------------------------------------------------------
+security:
+  hitl_required_stages:
+    - 5   # Literature Screen
+    - 9   # Experiment Design
+    - 20  # Quality Gate
+  allow_network_in_sandbox: false
+  network_policy: "block-all"
+
+# ---------------------------------------------------------------------------
+# Knowledge Base
+# ---------------------------------------------------------------------------
+knowledge_base:
+  backend: "markdown"
+  root: "docs/kb"
+
+# ---------------------------------------------------------------------------
+# Notifications (optional)
+# ---------------------------------------------------------------------------
+notifications:
+  enabled: false
+  channel: ""
+
+# ---------------------------------------------------------------------------
+# MetaClaw Bridge (optional cross-run learning)
+# ---------------------------------------------------------------------------
+metaclaw_bridge:
+  enabled: false
+  proxy_url: ""
+  fallback_url: ""
+  fallback_api_key: ""
+  skill_injection: true
+  quality_gates: true
+
+# ---------------------------------------------------------------------------
+# Export / Paper Generation
+# ---------------------------------------------------------------------------
+export:
+  format: "neurips2025"  # neurips2025 | iclr2026 | icml2026
+  latex_engine: "pdflatex"
