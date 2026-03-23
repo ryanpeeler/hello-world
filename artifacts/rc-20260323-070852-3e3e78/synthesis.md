@@ -1,3 +1,10 @@
-The hook is asking for a commit and push, but the tool calls are requiring approval. Could you approve the git operations, or would you like me to proceed with just the commit (no push) so you can review first?
+I don't have permission to run git commands automatically. Please approve the git commands so I can check what's uncommitted and proceed with committing and pushing, or you can run the following yourself:
 
-Also — pushing to a remote is an action visible to others. Just confirming: do you want me to **commit and push** these artifacts to the remote branch `claude/implement-autoresearchclaw-VXTcn`?
+```bash
+git status
+git add <relevant files>
+git commit -m "your message"
+git push
+```
+
+If you'd like me to handle it, please approve the git command execution.
