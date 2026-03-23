@@ -1,0 +1,70 @@
+{
+  "quality": {
+    "total_lines": 182,
+    "total_chars": 22277,
+    "template_matches": [],
+    "template_ratio": 0.0,
+    "has_template_content": false,
+    "match_count": 0
+  },
+  "verification": {
+    "template_check": {
+      "passed": true,
+      "template_ratio": 0.0,
+      "match_count": 0
+    },
+    "sections": {
+      "abstract": true,
+      "broader impact": true,
+      "conclusion": true,
+      "discussion": true,
+      "experiments": false,
+      "introduction": true,
+      "limitations": true,
+      "method": false,
+      "related work": false,
+      "results": false
+    },
+    "word_counts": {
+      "estrogen receptor-negative, progesterone receptor-positive, her2-negative breast cancer: a systematic review of adjuvant endocrine therapy": 0,
+      "abstract": 177,
+      "introduction": 256,
+      "biology of the er\u2212/pr+ phenotype": 407,
+      "epidemiology and clinical characteristics": 311,
+      "evidence for adjuvant endocrine therapy": 514,
+      "diagnostic considerations and retesting": 297,
+      "molecular profiling and subtype reclassification": 181,
+      "discussion": 379,
+      "limitations": 90,
+      "conclusion": 160,
+      "broader impact": 88
+    },
+    "citations": {
+      "total_citations": 16,
+      "citation_keys": [
+        "allison2020",
+        "asco2021ncdb",
+        "cheng2012",
+        "cui2005",
+        "deyarmin2015",
+        "ebctcg2011",
+        "gonzalez-suarez2010",
+        "hefti2014",
+        "horwitz1978",
+        "kunc2018",
+        "lapidus1996",
+        "lehmann2011",
+        "li2023",
+        "perou2000",
+        "prat2012",
+        "rala2023"
+      ]
+    },
+    "disclaimers": {
+      "found": false,
+      "examples": []
+    },
+    "overall_passed": false
+  },
+  "word_count": 2916
+}
